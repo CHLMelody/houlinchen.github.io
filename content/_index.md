@@ -82,7 +82,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-- block: collection
+  - block: collection
     id: publications
     content:
       title: Publications
@@ -98,7 +98,7 @@ sections:
     design:
       columns: '2'
       view: compact
-- block: markdown
+  - block: markdown
     id: service
     content:
       title: Academic Service
@@ -108,7 +108,7 @@ sections:
         - [IEEE Access](https://ieeeaccess.ieee.org/)
     design:
       columns: '2'
-- block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
