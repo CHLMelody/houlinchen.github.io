@@ -82,7 +82,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
+- block: collection
     id: publications
     content:
       title: Publications
