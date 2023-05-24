@@ -45,7 +45,7 @@ sections:
         - title: Marketing Data Analyst
           company: AP Lazer
           company_url: https://aplazer.com/
-          company_logo: org-gc
+          company_logo: aplazer
           location: Windsor, Ontario, Canada
           date_start: '2022-09-01'
           date_end: ''
