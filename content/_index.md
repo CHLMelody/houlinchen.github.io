@@ -13,6 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: features
+    id: skill
     content:
       title: Skills
       items:
@@ -29,6 +30,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -56,7 +58,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: publications
+    id: publication
     content:
       title: Publications
       text: |-
