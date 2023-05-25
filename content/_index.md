@@ -15,6 +15,8 @@ sections:
     design:
       background:
         image: icon.png
+        filters:
+          brightness: 0.6
         size: cover
         position: center
         text_color_light: true
