@@ -60,7 +60,7 @@ sections:
           icon: head-side-brain
           icon_pack: fab
         - name: Acedemic Writing
-          icon: book-open-cover
+          icon: book
           icon_pack: fab
   - block: collection
     id: publication
