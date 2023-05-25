@@ -32,7 +32,7 @@ sections:
           icon_pack: fas
         - name: Artificial Intelligence
           icon: microchip-ai
-          icon_pack: fas
+          icon_pack: fab
         
   - block: experience
     id: experience
