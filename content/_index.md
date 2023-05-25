@@ -57,10 +57,10 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Machine Learning
-          icon: head-side-brain
+          icon: head-side-virus
           icon_pack: fas
         - name: Acedemic Writing
-          icon: book-open-cover
+          icon: book
           icon_pack: fas
   - block: collection
     id: publication
