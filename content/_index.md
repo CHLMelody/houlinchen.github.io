@@ -12,6 +12,12 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      background:
+        image: icon.png
+        size: cover
+        position: center
+        text_color_light: true
   - block: features
     id: skill
     content:
