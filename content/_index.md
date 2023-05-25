@@ -58,9 +58,9 @@ sections:
           icon_pack: fas
         - name: Machine Learning
           icon: head-side-brain
-          icon_pack: fab
+          icon_pack: fas
         - name: Acedemic Writing
-          icon: book
+          icon: book-open-cover
           icon_pack: fas
   - block: collection
     id: publication
