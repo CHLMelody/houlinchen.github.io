@@ -51,10 +51,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Running paid search and paid social media ad reports, calculating ROI, and making summary and comparison tables.
+              * Analyzing the effectiveness of each campaign, ad group, and ad.
+              * Combining the static information from the CRM program to provide a focused and simplified data table for the marketing team to improve the ads.
     design:
       columns: '2'
   - block: collection
