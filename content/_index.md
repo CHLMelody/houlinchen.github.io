@@ -14,7 +14,7 @@ sections:
       text:
     design:
       background:
-        color: #FF7F04
+        color: #F7FAFC
         # image: background.jpg
         # filters:
         #   brightness: 0.6
