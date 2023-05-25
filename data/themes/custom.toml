@@ -9,7 +9,7 @@
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
+  home_section_odd = "rgb(244, 246, 255)"
   home_section_even = "rgb(229, 235, 255)"
 
 [dark]
