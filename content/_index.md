@@ -61,7 +61,7 @@ sections:
           icon_pack: fab
         - name: Acedemic Writing
           icon: book
-          icon_pack: fab
+          icon_pack: fas
   - block: collection
     id: publication
     content:
