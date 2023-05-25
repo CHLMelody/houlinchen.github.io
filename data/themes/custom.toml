@@ -10,7 +10,7 @@
 
   # Home sections
   home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_even = "rgb(229, 235, 255)"
 
 [dark]
   primary = "#bbdefb"
