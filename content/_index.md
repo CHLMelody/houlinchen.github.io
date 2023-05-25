@@ -14,7 +14,7 @@ sections:
       text:
     design:
       background:
-        color: 'navy'
+        color: #FF7F04
         text_color_light: true
         # image: background.jpg
         # filters:
