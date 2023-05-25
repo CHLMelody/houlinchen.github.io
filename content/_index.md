@@ -14,13 +14,15 @@ sections:
       text:
     design:
       background:
-        image: background.jpg
-        filters:
-          brightness: 0.6
-        size: cover
-        position: center
-        parallax: true
+        color: 'navy'
         text_color_light: true
+        # image: background.jpg
+        # filters:
+        #   brightness: 0.6
+        # size: cover
+        # position: center
+        # parallax: true
+        # text_color_light: true
   - block: features
     id: skill
     content:
