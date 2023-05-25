@@ -56,7 +56,7 @@ sections:
         - name: Data Analysis
           icon: chart-line
           icon_pack: fas
-        - name: AI
+        - name: Machine Learning
           icon: head-side-brain
           icon_pack: fab
         - name: Acedemic Writing
