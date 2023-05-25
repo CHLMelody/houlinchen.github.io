@@ -11,29 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:
-  - block: features
-    id: skill
-    content:
-      title: Skills
-      items:
-        - name: RStudio
-          # description: 100%
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: Overleaf
-          icon: leaf
-          icon_pack: fas
-        - name: Data Analysis
-          icon: chart-line
-          icon_pack: fas
-        - name: Artificial Intelligence
-          icon: microchip-ai
-          icon_pack: fab
-        
+      text:  
   - block: experience
     id: experience
     content:
@@ -60,6 +38,27 @@ sections:
               * Combining the static information from the CRM program to provide a focused and simplified data table for the marketing team to improve the ads.
     design:
       columns: '2'
+  - block: features
+    id: skill
+    content:
+      title: Skills
+      items:
+        - name: RStudio
+          # description: 100%
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          icon: python
+          icon_pack: fab
+        - name: Overleaf
+          icon: leaf
+          icon_pack: fas
+        - name: Data Analysis
+          icon: chart-line
+          icon_pack: fas
+        - name: Artificial Intelligence
+          icon: microchip-ai
+          icon_pack: fab
   - block: collection
     id: publication
     content:
