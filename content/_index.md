@@ -24,12 +24,16 @@ sections:
         - name: Python
           icon: python
           icon_pack: fab
-        - name: Data Analysis
-          icon: chart-line
-          icon_pack: fas
         - name: Overleaf
           icon: leaf
           icon_pack: fas
+        - name: Data Analysis
+          icon: chart-line
+          icon_pack: fas
+        - name: Artificial Intelligence
+          icon: microchip-ai
+          icon_pack: fas
+        
   - block: experience
     id: experience
     content:
