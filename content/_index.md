@@ -56,9 +56,9 @@ sections:
         - name: Data Analysis
           icon: chart-line
           icon_pack: fas
-        - name: Artificial Intelligence
+        - name: AI
           icon: brain-circuit
-          icon_pack: fas
+          icon_pack: fab
   - block: collection
     id: publication
     content:
