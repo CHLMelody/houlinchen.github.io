@@ -14,7 +14,7 @@ sections:
       text:
     design:
       background:
-        image: icon.png
+        image: background.jpg
         filters:
           brightness: 0.6
         size: cover
