@@ -12,16 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-    design:
-      background:
-        color: #F7FAFC
-        # image: background.jpg
-        # filters:
-        #   brightness: 0.6
-        # size: cover
-        # position: center
-        # parallax: true
-        # text_color_light: true
   - block: features
     id: skill
     content:
