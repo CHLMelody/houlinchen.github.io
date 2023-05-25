@@ -58,7 +58,7 @@ sections:
           icon_pack: fas
         - name: Artificial Intelligence
           icon: brain-circuit
-          icon_pack: fab
+          icon_pack: fas
   - block: collection
     id: publication
     content:
