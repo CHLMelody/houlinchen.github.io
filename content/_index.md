@@ -57,11 +57,11 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: AI
-          icon: brain-circuit
-          icon_pack: far
+          icon: head-side-brain
+          icon_pack: fab
         - name: Acedemic Writing
-          icon: typewriter
-          icon_pack: far
+          icon: book-open-cover
+          icon_pack: fab
   - block: collection
     id: publication
     content:
