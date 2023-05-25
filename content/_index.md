@@ -58,10 +58,10 @@ sections:
           icon_pack: fas
         - name: AI
           icon: brain-circuit
-          icon_pack: fas
+          icon_pack: far
         - name: Acedemic Writing
           icon: typewriter
-          icon_pack: fas
+          icon_pack: far
   - block: collection
     id: publication
     content:
