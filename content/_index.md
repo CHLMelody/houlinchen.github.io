@@ -50,7 +50,6 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
               * Running paid search and paid social media ad reports, calculating ROI, and making summary and comparison tables.
               * Analyzing the effectiveness of each campaign, ad group, and ad.
               * Combining the static information from the CRM program to provide a focused and simplified data table for the marketing team to improve the ads.
