@@ -9,6 +9,7 @@
   menu_title = "#2b2b2b"
 
   # Home sections
+  background = "rgb(241, 248, 236)"
   home_section_odd = "rgb(241, 248, 236)"
   home_section_even = "rgb(216, 235, 205)"
 
@@ -16,7 +17,7 @@
   primary = "#bbdefb"
   link = "#bbdefb"
   link_hover = "#bbdefb"
-  # background = "rgb(26, 32, 44)"
+  background = "rgb(26, 32, 44)"
   home_section_odd = "rgb(26, 32, 44)"
   home_section_even = "rgb(62, 77, 106)"
   menu_primary = "rgb(62, 77, 106)"
