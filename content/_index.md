@@ -57,7 +57,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Artificial Intelligence
-          icon: microchip-ai
+          icon: brain-circuit
           icon_pack: fab
   - block: collection
     id: publication
