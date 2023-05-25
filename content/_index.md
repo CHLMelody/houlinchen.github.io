@@ -15,7 +15,7 @@ sections:
     design:
       background:
         color: #FF7F04
-        text_color_light: true
+        text_color_light: false
         # image: background.jpg
         # filters:
         #   brightness: 0.6
