@@ -21,7 +21,7 @@ sections:
           size: cover
           position: center
           parallax: true
-          text_color_light: false
+          text_color_light: remove for the dynamic theme color
   - block: experience
     id: experience
     content:
