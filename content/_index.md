@@ -19,9 +19,9 @@ sections:
           filters:
             brightness: 1
           size: cover
-          position: center
-          parallax: true
-          text_color_light: false
+          position: right
+          parallax: false
+          text_color_light: true
   - block: experience
     id: experience
     content:
