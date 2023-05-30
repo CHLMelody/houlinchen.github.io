@@ -19,7 +19,7 @@ sections:
           filters:
             brightness: 1
           size: cover
-          position: right
+          position: center
           parallax: true
           text_color_light: true
   - block: markdown
