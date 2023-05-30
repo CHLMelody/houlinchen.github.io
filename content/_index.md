@@ -20,7 +20,7 @@ sections:
             brightness: 1
           size: cover
           position: right
-          parallax: false
+          parallax: true
           text_color_light: true
   - block: experience
     id: experience
