@@ -17,7 +17,7 @@ sections:
         image:
           filename: background.jpg
           filters:
-            brightness: 0.6
+            brightness: 1
           size: cover
           position: center
           parallax: true
