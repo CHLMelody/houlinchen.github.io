@@ -29,7 +29,7 @@ highlight_name: true
 first_name: Houlin
 ---
 👋 Hi, there! Welcome to my personal website : )
-{style="font-size: 1.2rem; background: #000000; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #00B050; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 <!-- Greetings! I am currently a third-year undergraduate student pursuing an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, CA. Throughout my university research, I engaged in multiple projects encompassing various aspects, such as Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. Concurrently, I am undertaking an internship in marketing data analysis at [AP Lazer Canada Mfg. Inc.](https://aplazer.com/), Windsor, ON, CA. My research interests include Bayesian Statistics, Data Analysis, and Machine Learning. 
 {style="text-align: justify;"} -->
