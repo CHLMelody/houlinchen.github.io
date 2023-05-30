@@ -17,11 +17,11 @@ sections:
         image:
           filename: background.jpg
           filters:
-            brightness: 0.3
+            brightness: 1
           size: cover
           position: center
           parallax: true
-          text_color_light: remove for the dynamic theme color
+          text_color_light: false
   - block: experience
     id: experience
     content:
