@@ -1,6 +1,5 @@
 ---
 title: Houlin(Melody) Chen
-{style="text-align: justify; background: #FFFFFF; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 role: Undergraduate Student
 # avatar_filename: img_6412.jpeg
 # bio: My research interests include GOOSEGOOSEDUCK.
