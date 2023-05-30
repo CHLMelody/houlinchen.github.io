@@ -21,7 +21,7 @@ sections:
           size: cover
           position: center
           parallax: true
-          text_color_light: true
+          text_color_light: false
   - block: experience
     id: experience
     content:
