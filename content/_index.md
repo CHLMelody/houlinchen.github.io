@@ -12,6 +12,16 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:  
+    design:
+      background:
+        image:
+          filename: background.jpg
+          filters:
+            brightness: 0.6
+          size: cover
+          position: center
+          parallax: true
+          text_color_light: true
   - block: experience
     id: experience
     content:
