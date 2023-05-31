@@ -49,7 +49,10 @@ footer:
       allow_derivatives: ''
       share_alike: ''
       allow_commercial: ''
-
+      
+marketing:
+  analytics:
+    google_analytics: 'G-3X34P199QZ'
 # Localization
 
 locale:
