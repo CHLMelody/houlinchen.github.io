@@ -32,7 +32,7 @@ projects:
 image:
   filename: system-diagram.png
 date: 2022-10-06T00:00:00.000Z
-url_poster: DDDAS2022 Presentation.pdf
+url_slides: DDDAS2022 Presentation.pdf
 links:
   - name: DOI
     url: https://arxiv.org/abs/2304.06513
