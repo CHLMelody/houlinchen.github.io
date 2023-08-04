@@ -97,30 +97,6 @@ sections:
               * Combining the static information from the CRM program to provide a focused and simplified data table for the marketing team to improve the ads.
     design:
       columns: '2'
-  - block: features
-    id: skill
-    content:
-      title: Skills
-      items:
-        - name: RStudio
-          # description: 100%
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: Overleaf
-          icon: leaf
-          icon_pack: fas
-        - name: Data Analysis
-          icon: chart-line
-          icon_pack: fas
-        - name: Machine Learning
-          icon: head-side-virus
-          icon_pack: fas
-        - name: Acedemic Writing
-          icon: book
-          icon_pack: fas
   - block: collection
     id: publication
     content:
@@ -147,6 +123,30 @@ sections:
         - [IEEE Access](https://ieeeaccess.ieee.org/)
     design:
       columns: '2'
+  - block: features
+    id: skill
+    content:
+      title: Skills
+      items:
+        - name: RStudio
+          # description: 100%
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          icon: python
+          icon_pack: fab
+        - name: Overleaf
+          icon: leaf
+          icon_pack: fas
+        - name: Data Analysis
+          icon: chart-line
+          icon_pack: fas
+        - name: Machine Learning
+          icon: head-side-virus
+          icon_pack: fas
+        - name: Acedemic Writing
+          icon: book
+          icon_pack: fas
   - block: contact
     id: contact
     content:
