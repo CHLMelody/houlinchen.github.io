@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/houlinchen/
   - icon: graduation-cap
-    icon_pack: fab
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=1k7pYMsAAAAJ&hl=en
 organizations:
   - name: University of Toronto
