@@ -31,6 +31,31 @@ sections:
         Greetings! I am currently an undergraduate student pursuing an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, CA. As a visiting student, I spent my Summer 2021 at both [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/). Throughout my undergraduate research, I am engaging in multiple projects encompassing various aspects, such as Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. Concurrently, I am undertaking an internship in marketing data analysis at [AP Lazer](https://aplazer.com/), Windsor, ON, CA. My research interests include Bayesian Statistics, Data Analysis, and Machine Learning. 
         {style="text-align: justify;"}
   - block: experience
+    id: education
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Honours Bachelor of Science
+          company: University of Toronto
+          company_url: https://www.utoronto.ca/
+          company_logo: aplazer
+          location: Toronto, Ontario, Canada
+          date_start: '2020-09-01'
+          date_end: '2024-04-30'
+          description: |2-
+              * Mathematics: Groups and Symmetries, Complex Variables, and Nonlinear Optimization.
+              * Statistics: Methods of Data Analysis I, Methods for multivariate data, and Applied Bayesian Statistics.
+    design:
+      columns: '2'
+  - block: experience
     id: experience
     content:
       title: Experience
