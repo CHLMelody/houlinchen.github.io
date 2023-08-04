@@ -17,8 +17,8 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=1k7pYMsAAAAJ&hl=en
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: clarivate
+    icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/IQS-4891-2023
   - icon: cv
     icon_pack: ai
