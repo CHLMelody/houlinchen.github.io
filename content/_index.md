@@ -28,7 +28,7 @@ sections:
       title: 
       subtitle: ''
       text: |-
-        Greetings! I am currently an undergraduate student pursuing an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, CA. As a visiting student, I spent my Summer 2021 at both [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/). Throughout my undergraduate research, I am engaging in multiple projects encompassing various aspects, such as Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. Concurrently, I am undertaking an internship in marketing data analysis at [AP Lazer](https://aplazer.com/), Windsor, ON, CA. My research interests include Bayesian Statistics, Data Analysis, and Machine Learning. 
+        Greetings! I am currently an undergraduate student pursuing an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, CA. As a visiting student, I spent my Summer 2021 at both [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/). Throughout my undergraduate research, I have engaged in multiple projects encompassing various aspects, such as Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. Concurrently, I am undertaking an internship in marketing data analysis at [AP Lazer](https://aplazer.com/), Windsor, ON, CA. My research interests include Bayesian Statistics, Data Analysis, and Machine Learning. 
         {style="text-align: justify;"}
   - block: experience
     id: education
@@ -49,10 +49,18 @@ sections:
           company_logo: aplazer
           location: Toronto, Ontario, Canada
           date_start: '2020-09-01'
-          date_end: '2024-04-30'
+          date_end: ''
           description: |2-
               * Mathematics: Groups and Symmetries, Complex Variables, and Nonlinear Optimization.
               * Statistics: Methods of Data Analysis I, Methods for multivariate data, and Applied Bayesian Statistics.
+      - title: Visiting Student
+          company: [Renmin University of China](https://www.ruc.edu.cn/en) and Nankai University
+          company_url: ''
+          company_logo: aplazer
+          location: China
+          date_start: '2021-05-01'
+          date_end: '2021-08-31'
+          description:
     design:
       columns: '2'
   - block: experience
