@@ -53,8 +53,8 @@ sections:
           description: |2-
               * Mathematics: Groups and Symmetries, Complex Variables, and Nonlinear Optimization.
               * Statistics: Methods of Data Analysis I, Methods for multivariate data, and Applied Bayesian Statistics.
-      - title: Visiting Student
-          company: Renmin University of China and Nankai University
+        - title: Visiting Student
+          company: [Renmin University of China](https://www.ruc.edu.cn/en) and Nankai University
           company_url: ''
           company_logo: aplazer
           location: China
