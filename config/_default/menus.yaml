@@ -10,10 +10,10 @@ main:
   - name: Education
     url: '#education'
     weight: 15
-  - name: Experiences
+  - name: Experience
     url: '#experience'
     weight: 20
-  - name: Skills
+  - name: Skill
     url: '#skill'
     weight: 30
 #   - name: Posts
@@ -25,7 +25,7 @@ main:
 #   - name: Talks
 #     url: '#talks'
 #     weight: 40
-  - name: Publications
+  - name: Publication
     url: '#publication'
     weight: 50
   - name: Contact
