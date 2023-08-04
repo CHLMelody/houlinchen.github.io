@@ -21,7 +21,7 @@ publication_types:
   - "5"
 authors:
   - Liangqi Yuan
-  - Houlin Chen
+  - admin
   - Robert Ewing
   - Jia Li
 doi: ""
