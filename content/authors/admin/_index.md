@@ -18,7 +18,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=1k7pYMsAAAAJ&hl=en
   - icon: clarivate
-    icon_pack: ai
+    icon_pack: fas
     link: https://www.webofscience.com/wos/author/record/IQS-4891-2023
 organizations:
   - name: University of Toronto
