@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: houlin.chen@mail.utoronto.ca
+    link: mailto:houlin.chen@mail.utoronto.ca
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/houlinchen/
