@@ -46,7 +46,7 @@ sections:
         - title: Honours Bachelor of Science
           company: University of Toronto
           company_url: https://www.utoronto.ca/
-          company_logo: aplazer
+          company_logo: uoft
           location: Toronto, Ontario, Canada
           date_start: '2020-09-01'
           date_end: ''
