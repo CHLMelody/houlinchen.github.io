@@ -60,7 +60,7 @@ sections:
           location: China
           date_start: '2021-05-01'
           date_end: '2021-08-31'
-          description:
+          description: |2-
     design:
       columns: '2'
   - block: experience
