@@ -20,6 +20,9 @@ social:
   - icon: clarivate
     icon_pack: fas
     link: https://www.webofscience.com/wos/author/record/IQS-4891-2023
+  - icon: cv
+    icon_pack: ai
+    link: https://houlin.info/uploads/CV.pdf
 organizations:
   - name: University of Toronto
     url: https://www.utoronto.ca/
