@@ -100,7 +100,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Publications
+      title: Publication
       # text: |-
         # {{% callout note %}}
         # Quickly discover relevant content by [filtering publications](./publication/).
@@ -126,7 +126,7 @@ sections:
   - block: features
     id: skill
     content:
-      title: Skills
+      title: Skill
       items:
         - name: RStudio
           # description: 100%
