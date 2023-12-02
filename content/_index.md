@@ -120,6 +120,7 @@ sections:
       subtitle: ''
       text: |-
         ### Journal Reviewer
+        - [IEEE Internet of Things Journal](https://ieee-iotj.org/)
         - [IEEE Access](https://ieeeaccess.ieee.org/)
     design:
       columns: '2'
