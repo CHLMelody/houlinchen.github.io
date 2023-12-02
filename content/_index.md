@@ -92,7 +92,7 @@ sections:
           date_start: '2024-01-01'
           date_end: '2024-08-31'
           description: |2-
-              * TBD: Data analysis, modeling, and quantification in environmental-related projects.
+              * Data analysis, modeling, and quantification in environmental-related projects.
         - title: Marketing Data Analyst
           company: AP Lazer
           company_url: https://aplazer.com/
