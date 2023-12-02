@@ -28,7 +28,7 @@ sections:
       title: 
       subtitle: ''
       text: |-
-        Greetings! I am currently an undergraduate student pursuing an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, CA. As a visiting student, I spent my Summer 2021 at both [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/). Throughout my undergraduate research, I have engaged in multiple projects encompassing various aspects, such as Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. Concurrently, I am undertaking an internship in marketing data analysis at [AP Lazer](https://aplazer.com/), Windsor, ON, CA. My research interests include Bayesian Statistics, Data Analysis, and Machine Learning. 
+        Greetings! I am currently an undergraduate student pursuing an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, CA. As a visiting student, I spent my Summer 2021 at both [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/). Throughout my undergraduate research, I have engaged in multiple projects encompassing various aspects, such as Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. Concurrently, I am undertaking an internship in marketing data analysis at [AP Lazer](https://aplazer.com/), Windsor, ON, CA. My research interests include Applied Statistics, Environmental Science, Data Analysis, and Machine Learning. 
         {style="text-align: justify;"}
   - block: experience
     id: education
@@ -74,7 +74,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -83,6 +83,16 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Assistant
+          company: University of Toronto
+          company_url: https://www.utoronto.ca/
+          company_logo: uoft
+          location: Toronto, Ontario, Canada
+          date_start: '2024-01-01'
+          date_end: '2024-08-31'
+          description: |2-
+              * TBD: Data analysis, modeling, and quantification in environmental-related projects.
       items:
         - title: Marketing Data Analyst
           company: AP Lazer
