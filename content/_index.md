@@ -56,7 +56,7 @@ sections:
           company_logo: uoft
           location: Toronto, Ontario, Canada
           date_start: '2020-09-01'
-          date_end: '2024-05-07'
+          date_end: '2024-06-17'
           description: |2-
               * Mathematics: Groups and Symmetries, Complex Variables, and Nonlinear Optimization.
               * Statistics: Methods of Data Analysis I, Methods for multivariate data, and Applied Bayesian Statistics.
@@ -97,7 +97,7 @@ sections:
           company_logo: uoft
           location: Toronto, Ontario, Canada
           date_start: '2024-01-01'
-          date_end: '2024-08-31'
+          date_end: ''
           description: |2-
               * Data analysis, modeling, and quantification in environmental-related projects.
         - title: Marketing Data Analyst
@@ -106,7 +106,7 @@ sections:
           company_logo: aplazer
           location: Windsor, Ontario, Canada
           date_start: '2022-09-01'
-          date_end: '2024-08-31'
+          date_end: '2024-08-15'
           description: |2-
               * Running paid search and paid social media ad reports, calculating ROI, and making summary and comparison tables.
               * Analyzing the effectiveness of each campaign, ad group, and ad.
