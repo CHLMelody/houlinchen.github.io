@@ -106,7 +106,7 @@ sections:
           company_logo: aplazer
           location: Windsor, Ontario, Canada
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2024-08-31'
           description: |2-
               * Running paid search and paid social media ad reports, calculating ROI, and making summary and comparison tables.
               * Analyzing the effectiveness of each campaign, ad group, and ad.
