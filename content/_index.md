@@ -171,7 +171,7 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: houlin.chen@mail.utoronto.ca
+      email: hc2273@cornell.edu
       # address:
       #   street: Hampton Hall 2155, 550 Stadium Mall Drive
       #   city: West Lafayette
