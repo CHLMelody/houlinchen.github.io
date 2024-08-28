@@ -28,7 +28,7 @@ sections:
       title: 
       subtitle: ''
       text: |-
-        Greetings! II am currently a graduate student at Cornell University in the Department of Statistics and Data Science. I graduated in 2024 with an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada. During my undergraduate studies, I was a visiting student at [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/) in Summer 2021. I have engaged in multiple projects including Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. My research interests continue to focus on Applied Statistics, Environmental Science, Data Analysis, and Machine Learning.
+        Greetings! II am currently a graduate student at [Cornell University](https://www.cornell.edu/) in the [Department of Statistics and Data Science](https://stat.cornell.edu/). I graduated in 2024 with an Honours B.S. degree in the [Faculty of Arts and Science](https://www.artsci.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/), Toronto, ON, Canada. During my undergraduate studies, I was a visiting student at [Renmin University of China](https://www.ruc.edu.cn/en) and [Nankai University](https://en.nankai.edu.cn/) in Summer 2021. I have engaged in multiple projects including Bayesian estimation for distributional differences, multiple linear regression for multivariate data analysis, and Monte Carlo approximations. My research interests continue to focus on Applied Statistics, Environmental Science, Data Analysis, and Machine Learning.
         {style="text-align: justify;"}
   - block: experience
     id: education
@@ -43,13 +43,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Master of Professional Studies
+          company: Cornell University
+          company_url: https://www.cornell.edu/
+          company_logo: cornell
+          location: Ithaca, New York, USA
+          date_start: '2024-08-26'
+          date_end: ''
         - title: Honours Bachelor of Science
           company: University of Toronto
           company_url: https://www.utoronto.ca/
           company_logo: uoft
           location: Toronto, Ontario, Canada
           date_start: '2020-09-01'
-          date_end: ''
+          date_end: '2024-05-07'
           description: |2-
               * Mathematics: Groups and Symmetries, Complex Variables, and Nonlinear Optimization.
               * Statistics: Methods of Data Analysis I, Methods for multivariate data, and Applied Bayesian Statistics.
